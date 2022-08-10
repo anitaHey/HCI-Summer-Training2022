@@ -13,7 +13,7 @@ from selenium.webdriver.support.ui import Select
 db_settings = {
     "host": "127.0.0.1",
     "user": "sa",
-    "password": "zxc123",
+    "password": "",
     "database": "ncu_database",
     "charset": "utf8"
 }
